@@ -1,5 +1,5 @@
 ﻿#CodeIgniter 3.x Preconfigured
-Ceci est le dépôt Git préconfiguré pour tous mes prochains projets utilisant CodeIgniter version 3. Il intègre le patch français et est activé par défaut.
+Ceci est le dépôt Git préconfiguré pour tous mes prochains projets utilisant CodeIgniter version 3. Il intègre le patch français et est activé par défaut. Les modules "database" et "sessions" sont déjà activé ainsi que les helpers "url" et "files".
 
 ##Ajouts effectués
 ###htaccess
